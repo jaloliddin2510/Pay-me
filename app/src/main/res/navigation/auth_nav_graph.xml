@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splash"
+    app:startDestination="@id/languageFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="dot.devops.payme.auth.login.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_loginFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="dot.devops.payme.auth.sign_up.SignUpFragment"
+        android:label="SignUpFragment"
+        tools:layout="@layout/fragment_sign_up">
+        <action
+            android:id="@+id/action_signUpFragment_to_smsVerifyFragment"
+            app:destination="@id/smsVerifyFragment" >
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="dot.devops.payme.home.choose_language.LanguageFragment"
+        android:label="LanguageFragment"
+        tools:layout="@layout/fragment_language">
+        <action
+            android:id="@+id/action_languageFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_languageFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/smsVerifyFragment"
+        android:name="dot.devops.payme.auth.sms_verifiy.SmsVerifyFragment"
+        android:label="SmsVerifyFragment"
+        tools:layout="@layout/fragment_sms_verify"/>
+
+</navigation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="pay_me">Pay me</string>
+    <string name="login">Login</string>
+    <string name="parolni_kiriting">Enter the password</string>
+    <string name="uni_ro_yxatdan_o_tish_vaqtida_kiritgansiz">You entered it during registration</string>
+    <string name="sizninng_raqamingiz">e-mail</string>
+    <string name="parol">password</string>
+    <string name="davom_ettirish">Continue</string>
+    <string name="parolni_unutdingizmi">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="net_disconnect">No internet connection</string>
+    <string name="iltimos_parolingizni_yodda_tuting_uni_qayta_tiklashning_iloji_yo_q">Please remember your password, it cannot be reset</string>
+    <string name="dan_so_ng_kodni_qayta_yuborish">dan so\'ng kodni qayta yuborish</string>
+    <string name="tasdiqlash_uchun_998">Tasdiqlash uchun +998</string>
+    <string name="raqamiga_yubordik">raqamiga yubordik</string>
+    <string name="sms_kodni_kiriting">Sms kodni kiriting</string>
+    <string name="sms_kodni_qayta_yuborish">Sms kodni qayta yuborish</string>
+    <string name="telefon_raqami_xato">Telefon raqami xato</string>
+    <string name="pin_kodni_kiriting">PIN-kodni kiriting</string>
+    <string name="pin_mismatch">PIN kod mos emas.\n%1$d ta urinish qoldi.</string>
+    <string name="pin_xato_1_daqiqa">Juda ko\'p xato urinishlar, 1 daqiqadan keyin urinib ko\'ring</string>
+</resources>

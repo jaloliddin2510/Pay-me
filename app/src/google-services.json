@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086717946518",
+    "project_id": "payme-b0070",
+    "storage_bucket": "payme-b0070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086717946518:android:4408c7283f81a4da60f0b7",
+        "android_client_info": {
+          "package_name": "dot.devops.payme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwfjZuHdXaHEBn3KxzXXvI98-jdVdvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

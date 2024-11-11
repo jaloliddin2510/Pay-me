@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Tun colors  -->
+    <color name="payMeBackground">#223c53</color>
+    <color name="payColor_payBack">#223c53</color>
+    <color name="payMeColor">#33cccc</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="yellow_payColor">#33cccc</color>
+    <color name="white_darkGray">#3C3C4B</color>
+    <color name="gray_white">#F0EDED</color>
+    <color name="whitePayColor_darkPayColor">#1A4E4E</color>
+    <color name="dark_whitePayColor_darkPayColor">#147878</color>
+</resources>

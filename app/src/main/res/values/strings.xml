@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">Payme</string>
+    <string name="app_name">Ilova nomi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="pay_me">Pay me</string>
+    <string name="o_zbekcha" translatable="false">O\'zbekcha</string>
+    <string name="ruscha" translatable="false">Русский</string>
+    <string name="english" translatable="false">English</string>
+    <string name="ilova_tilini_tanlang" translatable="false">Ilova Tilini Tanlang</string>
+    <string name="login">Kirish</string>
+    <string name="parolni_kiriting">Parolni kiriting</string>
+    <string name="uni_ro_yxatdan_o_tish_vaqtida_kiritgansiz">Uni ro\'yxatdan o\'tish vaqtida kiritgansiz</string>
+    <string name="sizninng_raqamingiz">elektron pochta</string>
+    <string name="parol">parol</string>
+    <string name="davom_ettirish">Davom ettirish</string>
+    <string name="parolni_unutdingizmi">Parolni unutdingizmi?</string>
+    <string name="or">YOKI</string>
+    <string name="net_disconnect">Internet aloqasi yo\'q</string>
+    <string name="iltimos_parolingizni_yodda_tuting_uni_qayta_tiklashning_iloji_yo_q">Iltimos parolingizni yodda tuting, uni qayta tiklashning iloji yo\'q!</string>
+    <string name="dan_so_ng_kodni_qayta_yuborish">dan so\'ng kodni qayta yuborish</string>
+    <string name="tasdiqlash_uchun_998">Tasdiqlash uchun +998</string>
+    <string name="raqamiga_yubordik"> raqamiga yubordik</string>
+    <string name="sms_kodni_kiriting">Sms kodni kiriting</string>
+    <string name="sms_kodni_qayta_yuborish">Sms kodni qayta yuborish</string>
+    <string name="telefon_raqami_xato">Telefon raqami xato</string>
+    <string name="pin_kodni_kiriting">PIN-kodni kiriting</string>
+    <string name="pin_mismatch">PIN kod mos emas.\n%1$d ta urinish qoldi.</string>
+    <string name="pin_xato_1_daqiqa">Juda ko\'p xato urinishlar, 1 daqiqadan keyin urinib ko\'ring</string>
+
 </resources>

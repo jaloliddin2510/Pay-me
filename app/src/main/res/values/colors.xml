@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--    Kun colors   -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="yellow_payColor">#FFEB3B</color>
+    <color name="payColor_payBack">#33cccc</color>
+    <color name="payMeBackground">#F2F8F8</color>
+    <color name="payMeColor">#33cccc</color>
+    <color name="gray_white">#6D6C6C</color>
+    <color name="white_gray">#B4B3B3</color>
+    <color name="text">#000000</color>
+    <color name="white_darkGray">#FFFFFFFF</color>
+    <color name="whitePayColor_darkPayColor">#D8F0F0</color>
+    <color name="dark_whitePayColor_darkPayColor">#56CECE</color>
 </resources>

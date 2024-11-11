@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="pay_me">Pay me</string>
+    <string name="login">Авторизоваться</string>
+    <string name="parolni_kiriting">Введите пароль</string>
+    <string name="uni_ro_yxatdan_o_tish_vaqtida_kiritgansiz">Вы ввели его при регистрации</string>
+    <string name="sizninng_raqamingiz">электронная почта</string>
+    <string name="parol">пароль</string>
+    <string name="davom_ettirish">Продолжать</string>
+    <string name="parolni_unutdingizmi">Забыли пароль?</string>
+    <string name="or">ИЛИ</string>
+    <string name="net_disconnect">Нет подключения к Интернету</string>
+    <string name="iltimos_parolingizni_yodda_tuting_uni_qayta_tiklashning_iloji_yo_q">Пожалуйста, запомните свой пароль, его невозможно сбросить!</string>
+    <string name="dan_so_ng_kodni_qayta_yuborish">dan so\'ng kodni qayta yuborish</string>
+    <string name="tasdiqlash_uchun_998">Tasdiqlash uchun +998</string>
+    <string name="raqamiga_yubordik">raqamiga yubordik</string>
+    <string name="sms_kodni_kiriting">Sms kodni kiriting</string>
+    <string name="sms_kodni_qayta_yuborish">Sms kodni qayta yuborish</string>
+    <string name="telefon_raqami_xato">Telefon raqami xato</string>
+    <string name="pin_kodni_kiriting">PIN-kodni kiriting</string>
+    <string name="pin_mismatch">PIN kod mos emas.\n%1$d ta urinish qoldi.</string>
+    <string name="pin_xato_1_daqiqa">Juda ko\'p xato urinishlar, 1 daqiqadan keyin urinib ko\'ring</string>
+</resources>

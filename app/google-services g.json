@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086717946518",
+    "project_id": "payme-b0070",
+    "storage_bucket": "payme-b0070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086717946518:android:4408c7283f81a4da60f0b7",
+        "android_client_info": {
+          "package_name": "dot.devops.payme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086717946518-s27vrk9ar38s6o66rqo2elqpbla1jodd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dot.devops.payme",
+            "certificate_hash": "f56627b33f7c5cb2ae5beb399c6705c64e3861c1"
+          }
+        },
+        {
+          "client_id": "1086717946518-4urp82tdmvooud85aaj9bvtmema0kvul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwfjZuHdXaHEBn3KxzXXvI98-jdVdvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086717946518-4urp82tdmvooud85aaj9bvtmema0kvul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
